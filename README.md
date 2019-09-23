@@ -1,3 +1,3 @@
-# <%= project_name %> 
+# <%= Thunder Chat System %> 
 
-<%= project_description %>
+<%= TP1 %>
